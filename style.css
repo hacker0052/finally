@@ -1,0 +1,9 @@
+.wall{
+    height:700px;
+    width: 700px;
+    border-radius: ;
+    background-image: url(wall\ clock1.png);
+    background-size: cover;
+    margin-left: 400px;
+    background-color:white;
+}
